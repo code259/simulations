@@ -1,4 +1,4 @@
-# Computational Neuroengineering Simulations
+# Computational Simulations
 
 Welcome to the **Computational Neuroengineering Simulations** repository — a collection of physics-based simulation projects aimed at solving real-world problems in neurotechnology and neural engineering.
 
